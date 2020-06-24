@@ -1,6 +1,3 @@
-# Note_Taker
-An application that can be used to write, save and delete notes.
-
 # Unit 11 Express Homework: Note Taker
 
 ## Description
