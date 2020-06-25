@@ -3,9 +3,9 @@
 # Table of Contents
 * [Description](#description)
 * [User_Story](#user_story)
-* [Using_Note_Taker](#usage)
+* [Using_Note_Taker](#using_note_taker)
 * [Demo](#demo)
-* [Github_Links](#github_info)
+* [Github_Links](#github_links)
 * [Email_Address](#email_address)
 * [Project_Images](#project_images)
 
@@ -24,7 +24,8 @@ Social - Save that date to get together with friends, or jot down your thoughts 
 
 # Using_Note_Taker
 
-Want to sample Note_Taker? Click this link...
+Want to sample Note_Taker? 
+Click this link...
 https://damp-refuge-48141.herokuapp.com/notes
 
 # Demo
@@ -43,4 +44,31 @@ https://github.com/JoeWills615/Note_Taker
 JoeWills615@gmail.com
 
 # Project_Images
+
+ <img src="./images/note_taker_01.PNG">
+
+  <br/>
+  <br/>
+
+  <img src="./images/note_taker_02.PNG">
+  
+  <br/>
+  <br/>
+
+  <img src="./images/note_taker_03.PNG">
+
+  <br/>
+  <br/>
+
+  <img src="./images/note_taker_04.PNG">
+
+  <br/>
+  <br/>
+
+  <img src="./images/note_taker_05.PNG">
+
+  <br/> 
+  <br/>
+
+  <img src="./images/note_taker_06.PNG">
 
